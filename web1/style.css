@@ -1,0 +1,11 @@
+
+.row {
+    justify-content: center;
+    align-items: center;
+}
+
+
+.container-sm{
+   
+    height: 1000px;
+}
